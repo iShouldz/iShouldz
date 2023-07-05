@@ -21,14 +21,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShouldz&layout=compact&border_radius=20&theme=transparent&locale=pt-br)
 
 ## Linguagens & Tools
-<img alt="Python Badge" height=40 src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img alt="JavaScript Badge" height=40 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alt="C Badge" height=40 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Ruby Badge" height=40 src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-<img alt="Intellijd Badge" height=40 src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="Pycharm Badge" height=40 src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img alt="VSCODE Badge" height=40 src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img alt="Trello Badge" height=40 src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+[<img alt="Python Badge" height=40 src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="JavaScript Badge" height=40 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&link=https://github.com/iShouldz&logoColor=F7DF1E&link"/>](https://github.com/iShouldz/)
+[<img alt="C Badge" height=40 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="Ruby Badge" height=40 src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="Intellijd Badge" height=40 src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="Pycharm Badge" height=40 src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="VSCODE Badge" height=40 src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="Trello Badge" height=40 src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
 
 ## Contato
 
