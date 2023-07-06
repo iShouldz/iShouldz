@@ -25,7 +25,7 @@
 [<img alt="C Badge" height=40 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
 [<img alt="Ruby Badge" height=40 src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
 [<img alt="Java Badge" height=40 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
-[<img alt="Java Badge" height=40 src="https://img.shields.io/badge/Certificados-blue_%20?logo=C&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="Certificados Badge" height=40 src="https://img.shields.io/badge/Certificados-blue_%20?logo=C&link=https://github.com/iShouldz/"/>](https://drive.google.com/drive/folders/1ndztwkKImSNLYFfOjBSFRH2WvwkuXmVY?usp=sharing)
 
 ## Contato
 
