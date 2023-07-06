@@ -11,7 +11,7 @@
 
 :books: Atualmente estou estudando desenvolvimento Front-end (JS, HTML e CSS).
 
-:outbox_tray: O objetivo do ano é me desenvolver e obter mais experiencia.
+:outbox_tray: O objetivo do ano é me desenvolver e obter mais experiência. Veja algumas das minhas certificações clicando na badge de certificados logo abaixo.
 
 ## GitHub Stats
 [<img alt="Python Badge" width="42%" src="https://github-readme-stats.vercel.app/api?username=iShouldz&include_all_commits=true&border_radius=0&theme=transparent&locale=pt-br&show_icons=true&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
