@@ -11,7 +11,8 @@
 
 :books: Atualmente estou estudando desenvolvimento Front-end (JS, HTML e CSS).
 
-:outbox_tray: O objetivo do ano é me desenvolver e obter mais experiência. Veja algumas das minhas certificações clicando na badge de certificados logo abaixo.
+:outbox_tray: O objetivo do ano é me desenvolver e obter mais experiência. Veja algumas das minhas [certificações](https://drive.google.com/drive/folders/1eZ3wy9fMYeZ_dyTogDnj-vsca-ggT976?usp=sharing).
+
 
 ## GitHub Stats
 [<img alt="Python Badge" width="42%" src="https://github-readme-stats.vercel.app/api?username=iShouldz&border_radius=0&theme=transparent&locale=pt-br&show_icons=true&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/github-readme-stats)
@@ -20,17 +21,16 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShouldz&layout=compact&border_radius=20&theme=transparent&locale=pt-br) -->
 
 ## Linguagens & Tools
-[<img alt="Python Badge" height=40 src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
-[<img alt="JavaScript Badge" height=40 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&link=https://github.com/iShouldz&logoColor=F7DF1E&link"/>](https://github.com/iShouldz/)
-[<img alt="C Badge" height=40 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
-[<img alt="Ruby Badge" height=40 src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
-[<img alt="Java Badge" height=40 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
-[<img alt="Certificados Badge" height=40 src="https://img.shields.io/badge/Certificados-blue_%20?logo=C&link=https://github.com/iShouldz/"/>](https://drive.google.com/drive/folders/1eZ3wy9fMYeZ_dyTogDnj-vsca-ggT976?usp=sharing)
+[<img alt="Java Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>](https://github.com/iShouldz/)
+[<img alt="Python Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>](https://github.com/iShouldz/)
+[<img alt="C Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"/>](https://github.com/iShouldz/)
+[<img alt="Ruby Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/>](https://github.com/iShouldz/)
+[<img alt="JavaScript Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>](https://github.com/iShouldz/)
 
 ## Contato
 
-[<img alt="Github Badge" height=40 src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
-[<img alt="Linkedin Badge" height=40 src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pedro-souza-385794241/"/>](https://www.linkedin.com/in/pedro-souza-385794241/)
-[<img alt="Twitter Badge" height=40 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ishouldz"/>](https://twitter.com/ishouldz)
+[<img alt="Github Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>](https://github.com/iShouldz/)
+[<img alt="Linkedin Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg"/>](https://www.linkedin.com/in/pedro-souza-385794241/)
+[<img alt="Twitter Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>](https://twitter.com/ishouldz)
 
 🚀 Obrigado pela visita.
