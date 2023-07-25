@@ -26,6 +26,12 @@
 [<img alt="C Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"/>](https://github.com/iShouldz/)
 [<img alt="Ruby Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/>](https://github.com/iShouldz/)
 [<img alt="JavaScript Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>](https://github.com/iShouldz/)
+[<img alt="SQLite Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg"/>](https://github.com/iShouldz/)
+[<img alt="MySQL Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"/>](https://github.com/iShouldz/)
+[<img alt="Postegree Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"/>](https://github.com/iShouldz/)
+[<img alt="MongoDB Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>](https://github.com/iShouldz/)
+[<img alt="Redis Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg"/>](https://github.com/iShouldz/)
+
 
 ## Contato
 
