@@ -16,7 +16,7 @@
 
 ## GitHub Stats
 [<img alt="Python Badge" width="42%" src="https://github-readme-stats.vercel.app/api?username=iShouldz&border_radius=0&theme=transparent&locale=pt-br&show_icons=true&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/github-readme-stats)
-[<img alt="Python Badge" width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShouldz&layout=compact&border_radius=0&theme=transparent&locale=pt-br&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
+[<img alt="Python Badge" width="31.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShouldz&layout=compact&border_radius=0&theme=transparent&locale=pt-br&link=https://github.com/iShouldz/"/>](https://github.com/iShouldz/)
 <!-- ![Shouldz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iShouldz&border_radius=1&theme=transparent&locale=pt-br&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShouldz&layout=compact&border_radius=20&theme=transparent&locale=pt-br) -->
 
