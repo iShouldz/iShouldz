@@ -9,7 +9,7 @@
 
 :house_with_garden: Garanhuns, Pernambuco, Brazil.
 
-:books: Atualmente estou estudando desenvolvimento Front-end (JS, HTML e CSS).
+:books: Atualmente estou estudando desenvolvimento Front-end, com foco principal em React.
 
 :outbox_tray: O objetivo do ano é me desenvolver e obter mais experiência. Veja algumas das minhas [certificações](https://drive.google.com/drive/folders/1eZ3wy9fMYeZ_dyTogDnj-vsca-ggT976?usp=sharing).
 
