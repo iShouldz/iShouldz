@@ -1,6 +1,6 @@
-<div>
+<!--<div>
     <img align="left" width="170" height="170" src="https://i.imgur.com/Sl1cFqA.png">
-</div>
+</div> -->
 
 <h1 align='center'><br>Olá, eu sou Pedro Souza! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> </h1>
 
@@ -30,10 +30,10 @@
 [<img alt="React Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>](https://github.com/iShouldz/)
 [<img alt="Rails Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"/>](https://github.com/iShouldz/)
 [<img alt="SQLite Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>](https://github.com/iShouldz/)
-[<img alt="MySQL Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"/>](https://github.com/iShouldz/)
 [<img alt="Postegree Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"/>](https://github.com/iShouldz/)
 [<img alt="MongoDB Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>](https://github.com/iShouldz/)
 [<img alt="Redis Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg"/>](https://github.com/iShouldz/)
+<!--[<img alt="MySQL Badge" height=40 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"/>](https://github.com/iShouldz/) -->
 
 
 ## Contato
