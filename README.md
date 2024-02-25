@@ -4,14 +4,13 @@
 
 <h1 align='center'><br>Olá, eu sou Pedro Souza! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> </h1>
 
-<br><br><br>
-:computer: Eu sou um desenvolvedor em aprendizado, atualmente em graduação pela UFAPE.
+<br><br>
+:computer: Eu sou um desenvolvedor front-end, focado em React, atualmente em graduação pela UFAPE.
 
 :house_with_garden: Garanhuns, Pernambuco, Brazil.
 
-:books: Atualmente estou estudando desenvolvimento Front-end, com foco principal em React.
+:outbox_tray: Meu objetivo atual é evoluir ainda mais na área de front-end e obter experiência profissional na área. <i>Veja algumas das minhas [certificações](https://drive.google.com/drive/folders/1eZ3wy9fMYeZ_dyTogDnj-vsca-ggT976?usp=sharing)</i>
 
-:outbox_tray: O objetivo do ano é me desenvolver e obter mais experiência. Veja algumas das minhas [certificações](https://drive.google.com/drive/folders/1eZ3wy9fMYeZ_dyTogDnj-vsca-ggT976?usp=sharing).
 
 
 ## GitHub Stats
